@@ -19,6 +19,7 @@
 更新日志
 
 2021.8.25 yssblog V0.1 begin,next I will upload to Github!
+2021.8.28 yssblog V0.2 loading!
 ```
 
 
