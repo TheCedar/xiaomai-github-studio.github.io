@@ -1,6 +1,4 @@
----
-title: Hello World
----
+
 ## 欢迎来到云上松的博客
 
 ### Welcome to wheat 's blog.
